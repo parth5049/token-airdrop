@@ -1,0 +1,24 @@
+{
+  "name": "airdrop",
+  "version": "1.0.0",
+  "description": "ERC20 token with airdrop feature",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "erc20",
+    "ethereum",
+    "smart",
+    "contract"
+  ],
+  "author": "Zignuts Technolab",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "truffle-wallet-provider": "0.0.5"
+  }
+}
